@@ -1,7 +1,7 @@
 # javascript
 javascript: better practices
 
-#Seccion 2
+# Seccion 2
 Variable: Es un contenedor de informacion que apunta a un lugar en memoria
 Dicha informacion puede cambiar en el futuro
 
